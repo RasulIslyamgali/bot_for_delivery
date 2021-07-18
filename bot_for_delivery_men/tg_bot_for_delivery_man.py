@@ -4,7 +4,7 @@ import sqlite3
 from time import sleep
 from multiprocessing import Process
 
-bot = telebot.TeleBot('1941610357:AAG8DWOfOrrO9mAGqV8xWsrSrvvxw7EJ5io')
+bot = telebot.TeleBot('TOKEN')
 
 
 def orders_text():
